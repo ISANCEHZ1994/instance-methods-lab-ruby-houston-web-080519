@@ -10,3 +10,4 @@ def sit
   puts "The Dog is siting"
 end
 
+end
